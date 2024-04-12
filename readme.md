@@ -1,10 +1,13 @@
-# WAsabi-iro(#A8BF93)
+# KAme-nozoki(#94D6DA)
 
-
+This project provides functionality to write JSON data from incoming POST requests to a Google Sheets spreadsheet via a Google Apps Script (GAS) endpoint.\
+Additionally, it supports development using clasp, enabling easier management and deployment of the script.
 
 ## Features
 
-- 
+- Accepts incoming POST requests to a publicly available endpoint hosted on Google Apps Script.
+- Writes the JSON data from the request body to a specified Google Sheets spreadsheet.
+- Supports development using clasp, allowing for easier code management and deployment.
 
 ## Installation
 
