@@ -1,13 +1,10 @@
 # WAsabi-iro(#A8BF93)
 
-This project automates the process of sending weekly garbage collection reminders to residents using the LINE Messaging API. Additionally, it includes a feature to send quotes from residents, sourced via Google Forms and managed through Google Apps Script.
+
 
 ## Features
 
-- Sends weekly garbage collection reminders on designated days.
-- Integrates with LINE Messaging API for message delivery.
-- Includes residents' quotes sourced from Google Forms.
-- Utilizes Google Apps Script to manage data and select random quotes.
+- 
 
 ## Installation
 
@@ -19,11 +16,9 @@ npm install -g @google/clasp
 
 ### Google Docs Setup
 
-1. Create a Google Form.
-2. Connect the Form to Google Sheets:
-   1. Google Forms > Link Sheets
-3. Obtain the Script ID:
-   1. Go to the linked Google Sheet > Extensions > Apps Script > Project Settings > IDs
+1. Create Google Sheet
+2. Obtain the Script ID:
+   1. Go to the Google Sheet > Extensions > Apps Script > Project Settings > IDs
 
 ### Setting Up This Repository
 
