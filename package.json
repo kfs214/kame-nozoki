@@ -1,0 +1,30 @@
+{
+  "name": "wasabi-iro",
+  "version": "1.0.0",
+  "description": "Automates weekly garbage collection reminders via LINE Messaging API, including resident quotes sourced from Google Forms via Google Apps Script.",
+  "author": "Kazuki USHIJIMA",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-apps-script": "1.0.83"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "3.0.2",
+    "@eslint/js": "9.0.0",
+    "@typescript-eslint/eslint-plugin": "6.21.0",
+    "eslint": "8.57.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-config-standard-with-typescript": "43.0.1",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-n": "16.6.2",
+    "eslint-plugin-promise": "6.1.1",
+    "globals": "15.0.0",
+    "husky": "9.0.11",
+    "lint-staged": "15.2.2",
+    "prettier": "3.2.5",
+    "typescript": "5.4.4",
+    "typescript-eslint": "7.5.0"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
