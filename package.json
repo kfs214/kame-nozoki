@@ -1,7 +1,7 @@
 {
-  "name": "wasabi-iro",
+  "name": "kame-nozoki",
   "version": "1.0.0",
-  "description": "Automates weekly garbage collection reminders via LINE Messaging API, including resident quotes sourced from Google Forms via Google Apps Script.",
+  "description": "Automates writing JSON data from incoming POST requests to a Google Sheets spreadsheet using a Google Apps Script (GAS) endpoint. ",
   "author": "Kazuki USHIJIMA",
   "license": "MIT",
   "dependencies": {
